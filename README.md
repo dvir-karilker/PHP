@@ -10,5 +10,5 @@ The Goals of this Repo is to Demonstrate and Share my knowledge about this langu
 Main Subjects are:
 1. [Basics](https://github.com/dvir-karilker/PHP/tree/main/Basics) (Introduction, Syntax, Variables, Conditions etc..)
 2. [Advanced](https://github.com/dvir-karilker/PHP/tree/main/Advanced) (Superglobals, Forms, OOP, MySQL etc..)
-3. Example Projects (Form Handling/Validation, Templates, User Creation, User Login etc..)
+3. [Example Projects](https://github.com/dvir-karilker/PHP/tree/main/Example%20Projects) (Form Handling/Validation, Templates, User Creation, User Login etc..)
 4. More Added Later...
