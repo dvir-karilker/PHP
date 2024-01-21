@@ -27,6 +27,7 @@
 </body>
 </html>
 
+
 Or:
 2. <?php
 echo "Hello Friend";
