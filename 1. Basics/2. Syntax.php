@@ -9,7 +9,7 @@
           Comments */
 
 
-/* PHP Scripts starts with <?php and ends with ?> : 
+/* PHP Scripts starts with "<?php" and ends with "?>" : 
 <?php
 // PHP code goes here
 ?>
