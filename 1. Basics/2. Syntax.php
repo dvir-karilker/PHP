@@ -19,21 +19,34 @@
 // PHP can be written Before, Inside and After your HTML Code.
 // For Example:
 
-1. <!DOCTYPE html>
-<html>
-<body>
+1. Inside -
+          <!DOCTYPE html>
+          <html>
+          <body>
+                    <?php echo "Hello Friend!"; ?>
+          </body>
+          </html>
 
-          <?php echo "Hello Friend!"; ?>
-</body>
-</html>
+
+2. Before -
+          <?php
+               echo "Hello Friend";
+          ?>
+          <!DOCTYPE html>
+          <html>
+          <body> 
+          .......
 
 
-Or:
-2. <?php
-echo "Hello Friend";
-?>
-<!DOCTYPE html>
-<html>
-<body> 
-.......
+
+3. After - 
+          <!DOCTYPE html>
+          <html>
+          <body>
+          </body>
+          </html>
+<?php echo "Hello Friend!"; ?>
+
+
+                    
 
