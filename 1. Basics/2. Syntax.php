@@ -3,7 +3,7 @@
 // PHP Comments are written using:
 //  "//" - For a Single Line
 
-/* "/*" - For
+/* "\/*" and "\*/" - For
           Multi
           Line
           Comments */
