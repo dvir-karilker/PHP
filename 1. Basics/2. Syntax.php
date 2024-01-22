@@ -16,6 +16,10 @@
 */
 
 
+// At the end of each line of PHP executable code, you should add a semi-colon (" ; ").
+
+
+
 // PHP can be written Before, Inside and After your HTML Code.
 // For Example:
 
@@ -57,5 +61,14 @@ The Differences Are:
 */
 
 
-// PHP
+// In PHP, keywords (e.g. if, else, while, echo, etc.), classes, functions, and user-defined functions are not case-sensitive.
+// For example all these "echo" statments will perform the same:
+ECHO "Hello World!";
+echo "Hello World!";
+EcHo "Hello World!";
 
+// BUT! Variables are case-sensitive!
+// For example, $color is not the same as $COLOR (we will learn about Variables in unit 3 under "1. Basics/3. Variables").
+
+
+?>
