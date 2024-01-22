@@ -3,10 +3,11 @@
 // PHP Comments are written using:
 //  "//" - For a Single Line
 
-/* "\/* and *\/" - For
-          Multi
-          Line
-          Comments */
+// "/*" and "*/" - 
+        /* For
+           Multi
+           Line
+           Comments */
 
 
 /* PHP Scripts starts with "<?php" and ends with "?>" : 
