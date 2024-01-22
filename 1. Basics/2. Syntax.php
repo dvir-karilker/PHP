@@ -68,7 +68,7 @@ echo "Hello World!";
 EcHo "Hello World!";
 
 // BUT! Variables are case-sensitive!
-// For example, $color is not the same as $COLOR (we will learn about Variables in unit 3 under "1. Basics/3. Variables").
+// For example, $color is not the same as $COLOR (we will learn about Variables in unit 3 under "1. Basics/3. Variables & Data Types").
 
 
 ?>
