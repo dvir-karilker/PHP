@@ -9,6 +9,7 @@ echo "Text to be printed";
 
 
 
+
 // In PHP Variables are initialized using the "$" sign, followed by the Name of the variable, which then sets to its Value:
 $x = 10;
 
@@ -25,6 +26,7 @@ echo "We have " . $x . " students in our class";
 
 // !NOTE! - By using the second (2) method, make sure to add spaces (" ") before and after the variable placement
 // to prevent all parts of the text from being connected to eachother (without it, Outputs: We have10students in our class)
+
 
 
 
