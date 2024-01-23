@@ -43,6 +43,18 @@ echo "We have " . $x . " students in our class";
  - Resource  */
 
 
+// In PHP, Variable Types are being set according to their Value upon creation.
+// String Variable (defined with double or single quotes):
+$name = "Dvir";
+
+// Integer Variable:
+$age = 27;
+
+// Float Variable (must have an "."):
+$average = 95.3;
+
+// Boolean Variable ("true" or "false". Both are case-insensitive):
+$notTrue = False;
 
 
 
