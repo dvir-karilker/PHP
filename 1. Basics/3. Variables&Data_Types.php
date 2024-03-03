@@ -56,6 +56,14 @@ $average = 95.3;
 // Boolean Variable ("true" or "false". Both are case-insensitive):
 $notTrue = False;
 
+// Array
+// An array stores multiple values in one single variable. Each value is seperated by a (value1, value2)
+// Two ways of creating,
+// 1. Using the "array()" function:
+$names = array("Jack", "Daniel", "Dvir");
+// 2. A shorter syntax using the squared [] brackets:
+$names = ["Jack", "Daniel", "Dvir"];
+
 
 
 
