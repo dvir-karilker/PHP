@@ -17,7 +17,7 @@ $x = 10;
 echo $x;
 // ^^  Outputs: 10
 
-// To print the value of a variable along with other text/variables, use of of two options:
+// To print the value of a variable along with other text/variables, use one of the following options:
 // 1 -
 echo "We have $x students in our class";
 // 2 (with "." between each piece of the text) - 
